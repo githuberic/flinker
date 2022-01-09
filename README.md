@@ -1,2 +1,2 @@
-# flinker
-Flink入门&amp;学习之路
+# 项目定位
+Flink入门&学习之路
